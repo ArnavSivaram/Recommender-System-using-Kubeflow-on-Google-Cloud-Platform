@@ -25,9 +25,8 @@ Enabling employees to experiment with other roles may also improve employee moti
 
 ## DotA 2 Motivation
 
-“Sports traditionally an excellent setting to examine teams” – for reasons such as the consistency of rules, clarity of outcomes, repeated observations, and behaviors at the levels of individuals and groups.
-“Comparison tends to fail in contemporary organizations” – work becomes increasingly distributed, virtual, self-assembled, cross-functional, and fluid/temporary.
-Why MOBA?  - employ a number of cooperative game design patterns that require players to employ complementary characters, shared goals, and synergistic abilities. People are also building expertise with respect to certain heroes/characters, while also working on interdependence and team synergy to get the best results. Additionally, data regarding Dota was readily available, unlike employee performance details that are internal to the organization.
+Sports has traditionally been an excellent setting to examine teams, for reasons such as the consistency of rules, clarity of outcomes, repeated observations, and behaviors at the levels of individuals and groups. However, the comparison tends to fail in contemporary organizations, where work is becoming increasingly distributed, virtual, self-assembled, cross-functional, and fluid/temporary.
+Multiplayer online battle arena (MOBA) are a special category of video games that employ a number of cooperative game design patterns that require players to employ complementary characters, shared goals, and synergistic abilities. People are also building expertise with respect to certain heroes/characters, while also working on interdependence and team synergy to get the best results. Additionally, data regarding Dota was readily available, unlike employee performance details that are internal to the organization.
 
 ## DotA 2 Context
 
